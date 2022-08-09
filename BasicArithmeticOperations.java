@@ -1,4 +1,4 @@
-public class ArithmeticOperations {
+public class BasicArithmeticOperations {
 	public static void main(String[] args) {
 		
 		int num1 = 100;
