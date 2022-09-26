@@ -17,7 +17,7 @@ class Area {
     }
 }
 
-public class Encapsulation1 {
+public class Encapsulation {
     public static void main(String[] args) {
 
         Area rectangle = new Area(2, 16);
